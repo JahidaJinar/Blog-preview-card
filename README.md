@@ -1,5 +1,7 @@
 # Frontend Mentor - Blog preview card
 
+My Design: https://jahidajinar.github.io/Blog-preview-card/
+
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
 ## Welcome! 👋
